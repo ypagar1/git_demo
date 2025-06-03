@@ -25,7 +25,7 @@ Make sure you have the following installed:
 
 - Internet connection (for remote operations)
 
-##📦 Installation
+## 📦Installation
 Clone the repository:
 
 > bash
@@ -46,7 +46,7 @@ Make the script executable (Linux/macOS):
 
 > chmod +x git_tool.py
 
-##💻 Usage
+## 💻Usage
 Run the script and follow the prompts:
 
 >bash
@@ -76,7 +76,7 @@ Pull from remote:
 
 >python git_tool.py --pull
 
-##⚙️ Supported Git Commands
+## ⚙️Supported Git Commands
 - git init
 
 - git add .
